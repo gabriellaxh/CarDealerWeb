@@ -1,0 +1,36 @@
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.deps.json
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.dll
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.pdb
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.dll
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.pdb
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csproj.CopyComplete
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.dll
+C:\Users\Gabriela\source\repos\CarDealerWeb\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.pdb
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.deps.json
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.dll
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.pdb
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.dll
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.pdb
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csprojAssemblyReference.cache
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csproj.CopyComplete
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.dll
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.pdb
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.deps.json
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.dll
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.pdb
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.dll
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.pdb
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csprojAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csproj.CopyComplete
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.dll
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.pdb

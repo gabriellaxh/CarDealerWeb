@@ -1,0 +1,16 @@
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Data\bin\Debug\netstandard2.0\CarDealer.Data.deps.json
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Data\bin\Debug\netstandard2.0\CarDealer.Data.dll
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Data\bin\Debug\netstandard2.0\CarDealer.Data.pdb
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.dll
+C:\Users\Gabriela\source\repos\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.pdb
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Data\bin\Debug\netstandard2.0\CarDealer.Data.deps.json
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Data\bin\Debug\netstandard2.0\CarDealer.Data.dll
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Data\bin\Debug\netstandard2.0\CarDealer.Data.pdb
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.dll
+C:\Users\Gabriela\source\repos\C# Web\C# MVC Frameworks - ASP.NET Core\ASP.NET Essentials\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.pdb

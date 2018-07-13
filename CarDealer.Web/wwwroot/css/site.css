@@ -1,0 +1,88 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: Verdana;
+    font-size: 17px;
+    background-image: url(https://images.unsplash.com/photo-1485291571150-772bcfc10da5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5a75f85cc6f827a066097cae05e39223&auto=format&fit=crop&w=1400&q=80);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+#welcome{
+    color: sandybrown;
+    text-align:  center
+
+}
+
+#myEdit {
+    color: palegreen
+}
+
+#myDiscount {
+    color: lightcoral;
+}
+
+.form-control {
+    background-color: black;
+    color: navajowhite;
+    font-weight: bold
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+#qrCode {
+    margin: 15px;
+}
+
+a.disabled {
+    pointer-events: none;
+}
+
+.parts-select {
+    height: 300px
+}
+
+th, td, label {
+    color: tan;
+    font-weight: bold
+}
+
+h2 {
+    color: navajowhite;
+    font-size: 35px;
+}
+
+h3, h4 {
+    color: navajowhite;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+p {
+    color: navajowhite;
+    font-size: small
+}
+
+a {
+    color: lightslategray;
+}
+
+
+
+@media screen and (max-width: 767px) {
+    .carousel-caption {
+        display: none;
+    }
+}

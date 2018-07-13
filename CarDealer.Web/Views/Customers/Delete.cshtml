@@ -1,0 +1,10 @@
+﻿@model int
+
+@{
+    ViewData["Title"] = "Delete Customer";
+}
+
+<h2>Are you sure you want to delete this customer?</h2>
+<a href="/customers/remove/@Model" class="btn btn-danger">Confirm Delete</a>
+<a href="/customers/all/ascending" class="btn btn-default">Back</a>
+
